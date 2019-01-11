@@ -1,2 +1,5 @@
-Version 1.14.1
+Version 1.14.2
 -Newly Updated Updating System in place
+
+Version 1.14.1
+-Database IP Fixed
