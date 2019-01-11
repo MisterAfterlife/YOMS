@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.14.2.0</version>
+    <version>1.14.1.0</version>
     <url>https://nexttech.solutions/software/yoms/YOMS(v1.14.1).zip</url>
     <changelog>https://raw.githubusercontent.com/MisterAfterlife/YOMS/master/omsupdatelog.txt</changelog>
     <mandatory>false</mandatory>
