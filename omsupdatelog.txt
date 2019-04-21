@@ -1,3 +1,7 @@
+Version 1.15.0
+- Printing Bug Fixes
+- Updated Database
+
 Version 1.14.2
 -New Updating System in place
 
