@@ -1,9 +1,15 @@
+Version 1.15.1	
+• Bug Fixes:
+  - Campership report fixed to display correct camper
+  - Weekly tally displays both Male and Female troops
+  - High Adventure & Sibblings zeroed out in database
+  	
 Version 1.15.0
-- Printing Bug Fixes
-- Updated Database
+• Printing Bug Fixes
+• Updated Database
 
 Version 1.14.2
--New Updating System in place
+• New Updating System in place
 
 Version 1.14.1
--Database IP Fixed
+• Database IP Fixed
