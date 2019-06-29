@@ -1,3 +1,10 @@
+Version 1.15.2
+• Weekly Tally report modified
+• Provis Roster report modified
+• Unnecessary columns removed from Troop database
+• "Reprint Receipt" section reordered
+• "Troop Campership" section clears camper info on "Apply"
+
 Version 1.15.1	
 • Bug Fixes:
   - Campership report fixed to display correct camper
