@@ -1,3 +1,7 @@
+Version 1.15.4
+• Database fixes
+• Troop Check-In correctly Debits & Credits Unit Deposit for Transmittal
+
 Version 1.15.3
 • Bug Fix - Removed unwanted empty space from Provisional
 • Added new section for Trading Post in 'Add' Receipt
