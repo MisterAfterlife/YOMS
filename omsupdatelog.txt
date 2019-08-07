@@ -1,3 +1,6 @@
+Version 1.15.6
+• Check-In now displays/updates Notes section from Add/Edit Reservation
+
 Version 1.15.5
 • Unit Payment detail bug fixed
 
