@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.16.0</version>
-    <url>yawgoogoms.com/HKJUBvJclD/yoms/YOMS(v1.16.0).zip</url>
+    <url>https://www.yawgoogoms.com/HKJUBvJclD/yoms/YOMS(v1.16.0).zip</url>
     <changelog>https://raw.githubusercontent.com/MisterAfterlife/YOMS/master/omsupdatelog.txt</changelog>
     <mandatory>false</mandatory>
 </item>
