@@ -1,3 +1,7 @@
+Version 1.16.0
+• UPDATED Database to 2020
+• Backup OMS2019 server
+
 Version 1.15.6
 • Check-In now displays/updates Notes section from Add/Edit Reservation
 
