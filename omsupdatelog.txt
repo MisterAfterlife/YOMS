@@ -1,3 +1,8 @@
+Version 1.16.1
+• Removed Troop column values from database
+• New Refund template added - still needs work
+• Last Years Attendance added to 2020 (current) year
+
 Version 1.16.0
 • UPDATED Database to 2020
 • Backup OMS2019 server
