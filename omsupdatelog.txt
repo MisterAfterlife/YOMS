@@ -1,3 +1,6 @@
+Version 1.16.2
+• Fixed error with database
+
 Version 1.16.1
 • Removed Troop column values from database
 • New Refund template added - still needs work
