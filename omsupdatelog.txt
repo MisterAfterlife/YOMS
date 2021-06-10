@@ -1,3 +1,6 @@
+Version 1.16.4
+• Updated Troop Check-In code changed to save discounts 
+
 Version 1.16.3
 • Database updates for 2021
 • Troop deposits imported from 2019
