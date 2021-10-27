@@ -1,3 +1,10 @@
+Version 1.17
+• Updated for 2022 year
+• Updated UI for Troop Add/Edit
+• Cleaned database
+• Check-In Siblings error fixed
+• Transmittal issue fixed
+
 Version 1.16.5
 • Fixed Troop Check-In saving error
 
