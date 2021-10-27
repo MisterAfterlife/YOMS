@@ -1,4 +1,4 @@
-Version 1.17
+Version 1.17.0
 • Updated for 2022 year
 • Updated UI for Troop Add/Edit
 • Cleaned database
