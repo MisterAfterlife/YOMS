@@ -1,3 +1,6 @@
+Version 1.17.1
+• Add/Edit update bug fixed
+
 Version 1.17.0
 • Updated for 2022 year
 • Updated UI for Troop Add/Edit
